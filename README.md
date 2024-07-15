@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Divyansh Gupta</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-
-- 🔭 I’m currently working on [College Connect](https://github.com/divyansh351/college-connect)
 
 - 🌱 I’m currently learning **TensorFlow**
 
