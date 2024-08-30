@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Gupta</h1>
 
-- 🌱 I’m currently learning **TensorFlow**
-
 - 📫 How to reach me **divyanshgupta351@gmail.com**
 
 
