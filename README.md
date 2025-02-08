@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Gupta</h1>
 
 - 📫 How to reach me **divyanshgupta351@gmail.com**
-- My Work **https://kartavya-website-test.onrender.com/**
+- Work Sample **https://kartavya-website-test.onrender.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
